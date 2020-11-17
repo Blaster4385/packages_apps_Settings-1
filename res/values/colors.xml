@@ -180,4 +180,6 @@
     <color name="op_control_accent_color_green_light">#ff0bd270</color>
     <color name="op_control_accent_color_green_dark">#ff06743e</color>
 
+    <color name="settingsHeaderColor">@*android:color/accent_device_default_light</color>
+
 </resources>
