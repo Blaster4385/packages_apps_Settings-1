@@ -69,6 +69,7 @@ android_library {
         "vendor.lineage.fastcharge-V1.0-java",
         "VendorSupport-preference",
         "airbnb-lottie",
+        "androidx.dynamicanimation_dynamicanimation",
     ],
 
     libs: [
