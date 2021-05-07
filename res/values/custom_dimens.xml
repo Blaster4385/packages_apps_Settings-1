@@ -69,4 +69,21 @@
     <dimen name="dashboard_tile_foreground_image_size">@dimen/op_control_icon_size_indicator</dimen>
     <dimen name="op_control_icon_size_indicator">16.0dip</dimen>
 
+    <!-- OnePlus text -->
+    <dimen name="op_text_size_body1">13.0sp</dimen>
+    <dimen name="op_text_size_button">14.0sp</dimen>
+    <dimen name="op_text_size_descriptions">10.0sp</dimen>
+    <dimen name="op_text_size_h1">110.0px</dimen>
+    <dimen name="op_text_size_h2">96.0px</dimen>
+    <dimen name="op_text_size_h3">32.0sp</dimen>
+    <dimen name="op_text_size_h4">28.0sp</dimen>
+    <dimen name="op_text_size_h5">18.0sp</dimen>
+    <dimen name="op_text_size_h6">16.0sp</dimen>
+    <dimen name="op_text_size_subtitle">13.0sp</dimen>
+    <dimen name="op_text_style_dialog_body1_size">24.0px</dimen>
+    <dimen name="op_text_style_dialog_title_size">32.0px</dimen>
+
+    <!-- OnePlus Misc -->
+    <item type="dimen" name="op_line_space_multiplier_h2">0.8</item>
+
 </resources>
