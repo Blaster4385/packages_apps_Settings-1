@@ -32,6 +32,7 @@ import com.android.settings.fuelgauge.batterytip.tips.SummaryTip;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 import com.android.settingslib.fuelgauge.EstimateKt;
+import com.android.settings.widget.PreferenceCategoryController;
 
 import java.util.HashMap;
 import java.util.List;
