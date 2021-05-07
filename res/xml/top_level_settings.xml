@@ -50,6 +50,15 @@
         android:fragment="com.android.settings.applications.AppAndNotificationDashboardFragment"/>
 
     <Preference
+        android:key="top_level_explosives"
+        android:title="@string/blaster_settings_title"
+        android:summary="@string/blaster_dashboard_summary"
+        android:layout="@layout/op_home_preference_card_bottom" 
+        android:icon="@drawable/ic_homepage_blaster"
+        android:order="-95"
+        android:fragment="com.blaster.settings.Explosives"/>
+
+    <Preference
         android:key="top_level_battery"
         android:title="@string/power_usage_summary_title"
         android:summary="@string/summary_placeholder"
