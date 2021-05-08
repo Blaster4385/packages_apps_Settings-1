@@ -52,7 +52,9 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="21dp"
             app:cardElevation="1dp">
-            app:cardBackgroundColor="@android:color/transparent"
+            app:cardBackgroundColor="@android:color/transparent
+            app:cardElevation="0dp"
+
 
             <ImageView
                 android:id="@+id/account_avatar"
