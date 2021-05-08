@@ -29,6 +29,7 @@
 
     <Preference
         android:key="battery_tip"
+        settings:iconSpaceReserved="false"
         android:title="@string/summary_placeholder"
         settings:controller="com.android.settings.fuelgauge.batterytip.BatteryTipPreferenceController" />
 
