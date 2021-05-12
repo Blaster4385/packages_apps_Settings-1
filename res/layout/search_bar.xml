@@ -19,6 +19,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/search_bar"
     android:layout_width="match_parent"
+    android:background="@android:color/transparent"
     android:layout_height="wrap_content"
     app:layout_scrollFlags="scroll|exitUntilCollapsed"
     app:toolbarId="@+id/search_action_bar_container">
@@ -29,6 +30,7 @@
         android:layout_marginBottom="48dp"
         android:gravity="center_vertical"
         android:orientation="horizontal"
+        android:background="@android:color/transparent"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:paddingTop="12dp"
@@ -52,8 +54,6 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="21dp"
             app:cardElevation="1dp">
-            app:cardBackgroundColor="@android:color/transparent
-            app:cardElevation="0dp"
 
 
             <ImageView
