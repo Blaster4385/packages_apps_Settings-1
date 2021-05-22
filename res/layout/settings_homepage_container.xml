@@ -26,6 +26,8 @@
     <androidx.core.widget.NestedScrollView
         android:id="@+id/main_content_scrollable_container"
         android:layout_width="match_parent"
+        android:scrollbarThumbVertical="@android:color/transparent"  
+        android:scrollbarThumbHorizontal="@android:color/transparent"
         android:layout_height="match_parent"
         app:layout_behavior="com.android.settings.widget.FloatingAppBarScrollingViewBehavior">
 
